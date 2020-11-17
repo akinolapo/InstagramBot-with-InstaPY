@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: clarifai
+Version: 2.6.2
+Summary: Clarifai API Python Client
+Home-page: https://github.com/clarifai/clarifai-python
+Author: Clarifai
+Author-email: support@clarifai.com
+Maintainer: Robert Wen
+Maintainer-email: robert@clarifai.com
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
